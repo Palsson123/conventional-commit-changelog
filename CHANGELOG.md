@@ -1,3 +1,13 @@
+# [1.3.0](https://github.com/Palsson123/conventional-commit-changelog/compare/v1.2.0...v1.3.0) (2021-02-16)
+
+
+### Features
+
+* and now... Even more! ([725c7d9](https://github.com/Palsson123/conventional-commit-changelog/commit/725c7d9ffdcbc006e0d929378be572026ef90060))
+* more stuff again ([5e73538](https://github.com/Palsson123/conventional-commit-changelog/commit/5e73538cd3654d7be10f988807dc7dcdb2dd1a51))
+
+
+
 # [1.2.0](https://github.com/Palsson123/conventional-commit-changelog/compare/v1.1.0...v1.2.0) (2021-02-16)
 
 
